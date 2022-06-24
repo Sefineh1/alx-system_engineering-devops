@@ -1,1 +1,1 @@
- Displaying a current directory in long formate, with user and group IDs in number and all hiddenfiles
+ a script that creates a directory named my_first_directory in the /tmp/ directory
