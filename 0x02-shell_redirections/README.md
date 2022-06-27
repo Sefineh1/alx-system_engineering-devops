@@ -5,3 +5,4 @@
 3. echo ' Displaying the content of two files'
 4. echo ' displaying the last 10 lines of/etc/passwd'
 5. echo ' Displaying the first 10 lines of /etc/passwd'
+6. echo ' Dsiplay the third line of the file iacta'
