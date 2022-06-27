@@ -4,3 +4,4 @@
 2. echo ' Displaying the content of the /etc/paswd file'
 3. echo ' Displaying the content of two files'
 4. echo ' displaying the last 10 lines of/etc/passwd'
+5. echo ' Displaying the first 10 lines of /etc/passwd'
