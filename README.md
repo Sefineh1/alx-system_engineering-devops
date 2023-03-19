@@ -1,1 +1,1 @@
-Task 0, Where am I?
+The objective of this repository is to help understand the general terms like RFTM and shebang, shell and terminal, how to navigate, how to look around, manipulating files, working with commands like type, help and man, reading man pages, keyboard shortcut for Bash
